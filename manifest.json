@@ -1,0 +1,16 @@
+{
+    "name": "Your Ecommerce App",
+    "short_name": "Ecommerce",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#009688",
+    "icons": [
+      {
+        "src": "/icons/butter.png",
+        "type": "image/png",
+        "sizes": "360x510"
+      }
+    ]
+  }
+  
